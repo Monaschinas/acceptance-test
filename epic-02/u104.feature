@@ -1,5 +1,5 @@
 Feature: Recuperación de contraseña
-  Como reclutador o postulante
+  Como escritor o lector
   Quiero recuperar la contraseña de mi cuenta 
   Para poder iniciar sesión
 

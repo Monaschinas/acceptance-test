@@ -1,5 +1,5 @@
 Feature: Inicio de sesión
-  Como reclutador o postulante 
+  Como escritor o lector
   Quiero ir a la aplicación directamente
   Para comenzar a utilizarla
 
